@@ -4,8 +4,8 @@ import os
 from email.header import decode_header
 
 # ========= CONFIGURA ==========
-EMAIL = "sf.contasdeconsumo@barueri.sp.gov.br"
-SENHA = "Contab.23@"
+EMAIL = "seu_email"
+SENHA = "suasenha"
 IMAP_SERVER = "mail.barueri.sp.gov.br"
 
 REMETENTE_ENEL = "brasil.enel.com"
